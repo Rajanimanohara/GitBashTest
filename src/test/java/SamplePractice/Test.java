@@ -12,6 +12,8 @@ public class Test {
 		//push from branch
 		
 		//pull from smoke branch
+		
+		//push to master branch(2nd commit)
 	}
 
 }
