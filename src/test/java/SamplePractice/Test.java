@@ -8,6 +8,8 @@ public class Test {
 		//1st push
 		
 		//1st pull to master
+		
+		//push from branch
 	}
 
 }
