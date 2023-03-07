@@ -10,6 +10,8 @@ public class Test {
 		//1st pull to master
 		
 		//push from branch
+		
+		//pull from smoke branch
 	}
 
 }
